@@ -8,4 +8,4 @@
 
 ### Vertical Seam Removal
 
-<img src="https://github.com/andrewdcampbell/seam-carving/blob/master/demos/castle.jpg" height="342"> <img src="https://github.com/andrewdcampbell/seam-carving/blob/master/demos/castle_shrink.jpg" height="342">
+<img src="https://github.com/hoangquan001/SeamCarving-CUDA-C/blob/master/img/castle.jpg" height="342"> <img src="https://github.com/hoangquan001/SeamCarving-CUDA-C/blob/master/img/castle_shrink.jpg?raw=true" height="342">
